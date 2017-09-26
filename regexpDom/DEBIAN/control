@@ -1,0 +1,9 @@
+Package: regexpDom
+Version: 0.1
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash
+Maintainer: domduf <minique.duf@gmail.fr>
+Description: Ce script permet de tester facilement la validité de vos regexp avant de le inclure dans vos programmes.
+Homepage: http://domduf.com
